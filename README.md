@@ -27,4 +27,7 @@ To run the project locally , please follow the following steps
 
 https://campus-placements-hy5puv27opikguym8l7ihq.streamlit.app/
 
+**CONTRIBUTIONS**
+
+Contributions to this repository are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
