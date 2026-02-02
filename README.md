@@ -52,7 +52,7 @@ An end-to-end machine learning application that predicts student placement proba
 | **Deployment** | Streamlit Community Cloud |
 | **Development** | Jupyter Notebook (EDA), Python IDE |
 
-** Project Structure:**
+**Project Structure:**
 
 ```
 Campus-Placement-Prediction-ML/
